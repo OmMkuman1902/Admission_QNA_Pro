@@ -1,9 +1,13 @@
-# 📚 College FAQ Bot using Gemini, LangChain, HuggingFace & FAISS
+# 📚 College FAQ Assistant using Gemini, LangChain, HuggingFace & FAISS
 
-An intelligent FAQ bot that answers college-related questions using real data stored locally.  
+An intelligent FAQ Assistant that answers college-related questions using real data stored locally.  
 Built with **Gemini-Pro**, **LangChain**, **Hugging Face embeddings**, **FAISS**, **Whisper**, and **ElevenLabs** for a seamless multimodal experience.
 
 ---
+## ✨ Overview
+
+![Project Flow](./ChatGPTImg.png)
+
 
 ## ✨ Technologies Used
 
